@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Welcome to this website!
-
-> This website is using [laobubu](http://laobubu.net)'s theme: [EasyBook](https://github.com/laobubu/jekyll-theme-EasyBook)
+Welcome to the world of One and Zero!
+> Hi , my name is [MD Parvez] and i like Computers,Books & Traveling.
+>Interested in : InfoSec ; I ♥ opensource & Linux <3 ; pwn all the things 8| 
+>[email : mdp4rv3z@gmail.com]
