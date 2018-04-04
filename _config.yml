@@ -6,7 +6,7 @@ baseurl: " "
 # Your information
 author: mdp4rv3z
 avatar: "https://avatars2.githubusercontent.com/u/23025427?s=460&v=4"
-profile: n00b|stillnobody|infosec .
+profile: n00b | still nobody | infosec 
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
@@ -20,7 +20,7 @@ header:
   links:             # Links on the header. Link to in-site page with a slash as prefix
     About: /about/
     Category: /category/
-    Achievements: /
+    Achievements: /achievements/
 
 permalink: /archivers/:title
 plugins:
