@@ -1,16 +1,16 @@
 # Site settings
-title: Another Blog
-url: "http://laobubu.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
-baseurl: "/jekyll-theme-EasyBook" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
+title: mdp4rv3z's|Blog
+url: "tuxb0y.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+baseurl: " " # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
   One or more sentences introducing this blog.
 
 # Your information
-email: your_email@example.com
-author: your_name
-avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
-profile: One sentence introducing yourself.
+email: mdp4rv3z@gmail.com
+author: md parvez
+avatar: "https://avatars2.githubusercontent.com/u/23025427?s=460&v=4"
+profile: n00b|Still n0body|InfoSec .
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
