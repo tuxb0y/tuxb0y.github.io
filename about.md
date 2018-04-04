@@ -11,4 +11,4 @@ Interested in : InfoSec & AI(Artificial Intelligence).<br> I ♥ opensource & Li
 Email : mdp4rv3z@gmail.com
 <br>
 
-<i> please ignore grammar articles problems in my blog posts and i hope you will forgive for that </i> 
+<i> please ignore grammar articles problems in my blog posts and i hope you will forgive me for that </i> 
